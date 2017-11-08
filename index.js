@@ -1,4 +1,4 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks(){
-    return blocks;
+function calculateVertical(beginning, destination) {
+  returns ()(destination - beginning) * 264);
 }
